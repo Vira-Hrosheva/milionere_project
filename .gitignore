@@ -1,0 +1,27 @@
+# Ігноруємо середовище Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Віртуальне середовище
+.venv/
+venv/
+env/
+
+# Файли IDE/редакторів
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# Файли збереження гри
+millionaire_save.json
+
+# Логи
+*.log
